@@ -1,0 +1,56 @@
+        #text{
+          color: #2d2d86;
+          padding: 30px;
+          font-size: 30px;
+
+        }
+        body{
+            background-color:#2d2d86 ;
+        }
+        #wrapper{
+            background-color: white;
+            width: 500px;
+            height:250px;
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            border-radius: 5px;
+            box-shadow: 0 0 3px 3px #6c2c9f;
+        }
+        .fa-quote-left {
+            font-size: 30px;
+            margin-right: 10px;
+            color:#2d2d86;
+
+        }
+
+        #quote{
+            padding: 20px;
+            height: 130px;
+        }
+        #new-quote{
+            margin-left: 250px;
+            color:#2d2d86;
+        }
+        button{
+            margin-top:50px;
+            margin-left: 20px;
+        }
+        span{
+            height: 50px;
+        }
+        .footer{
+          background-color: #6c2c9f;
+          color: white;
+          width: 500px;
+          height: 40px;
+          border-radius: 5px;
+          margin-top:30px;
+          padding: 5px;
+        }
+        .footer>a:hover{
+            color:white;
+            font-size:18px;
